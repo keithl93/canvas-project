@@ -1,7 +1,11 @@
-body {
-  background-color: red;
+canvas {
+  width: 800px;
+  height: 800px;
+  border: 5px solid black;
 }
 
-h1 {
-  font-size: 49px;
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
